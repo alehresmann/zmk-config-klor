@@ -11,6 +11,7 @@
 
 KLOR is a 36-42 key column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 
+RANDOM EDIT TO TRIGGER GITHB ACTIONS
 ![KLOR layouts](/docs/images/klor-layouts.svg)
 
 Polydactyl is the default layout. If you choose one of the other layouts you can use the matching template in the default keymap.
